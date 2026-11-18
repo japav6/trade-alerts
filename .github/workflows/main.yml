@@ -4,7 +4,7 @@ on:
   schedule:
     # Every 10 minutes. GitHub may run it a few minutes late when busy.
     # Private repo? Use '*/30 * * * *' to stay inside the free 2,000 minutes/month.
-    - cron: '*/10 * * * *'
+    - cron: '3-59/10 * * * *'
   workflow_dispatch: # adds a "Run workflow" button for manual runs
 
 permissions:
@@ -19,9 +19,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 8
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
           node-version: 24
           cache: npm
