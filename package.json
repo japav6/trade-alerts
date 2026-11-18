@@ -1,0 +1,19 @@
+{
+  "name": "trade-alerts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Telegram alerts when top Hyperliquid traders, U.S. House members or SEC insiders trade.",
+  "type": "module",
+  "main": "src/index.mjs",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "dry": "node src/index.mjs --dry-run",
+    "test": "node --test test/"
+  },
+  "dependencies": {
+    "unpdf": "2.1.0"
+  }
+}

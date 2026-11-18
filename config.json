@@ -1,0 +1,45 @@
+{
+  "alertAfterFailures": 6,
+
+  "hyperliquid": {
+    "enabled": true,
+    "selection": {
+      "topN": 20,
+      "refreshHours": 24,
+      "minAccountValueUsd": 250000,
+      "minMonthRoi": 0.05,
+      "minAllTimePnlUsd": 250000,
+      "requirePositiveWeek": true,
+      "maxMonthlyTurnover": 100
+    },
+    "extraWallets": [],
+    "alerts": {
+      "minPositionUsd": 100000,
+      "minChangeUsd": 100000,
+      "minChangePct": 0.25
+    }
+  },
+
+  "congress": {
+    "enabled": true,
+    "checkEveryMinutes": 60,
+    "members": [],
+    "tickers": [],
+    "minAmountUsd": 0,
+    "includeExchanges": false,
+    "maxFilingsPerRun": 25
+  },
+
+  "sec": {
+    "enabled": true,
+    "checkEveryMinutes": 10,
+    "transactionCodes": ["P"],
+    "minValueUsd": 100000,
+    "roles": ["officer", "director"],
+    "tickers": [],
+    "skip10b51Plans": false,
+    "includeAmendments": false,
+    "maxPages": 5,
+    "rememberFilings": 5000
+  }
+}
