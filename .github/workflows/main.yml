@@ -20,7 +20,7 @@ jobs:
     timeout-minutes: 8
     steps:
       - uses: actions/checkout@v5
-      with:
+        with:
           ref: main
           
       - uses: actions/setup-node@v5
