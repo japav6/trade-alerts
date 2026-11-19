@@ -2,7 +2,7 @@
  "failures": {
   "hyperliquid": 0,
   "congress": 0,
-  "sec": 0
+  "sec": 1
  },
  "hyperliquid": {
   "traders": [
