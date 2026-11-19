@@ -2,7 +2,7 @@
  "failures": {
   "hyperliquid": 0,
   "congress": 0,
-  "sec": 1
+  "sec": 0
  },
  "hyperliquid": {
   "traders": [
@@ -1653,7 +1653,7 @@
   ]
  },
  "sec": {
-  "lastRun": 1795093909415,
+  "lastRun": 1795095259901,
   "seen": [
    "0001510281-26-000448",
    "0001493152-26-052957",
