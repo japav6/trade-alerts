@@ -10,181 +10,181 @@
     "address": "0x659ddde484fd9dc313917d5de92a52b6a74a9d63",
     "name": null,
     "rank": 1,
-    "accountValue": 51827629.7211,
-    "monthPnl": 52677071.5311,
-    "monthRoi": 5.7623066797,
-    "allTimePnl": 52677071.5311
+    "accountValue": 52581629.8092,
+    "monthPnl": 53465784.9592,
+    "monthRoi": 5.8485834701,
+    "allTimePnl": 53465784.9592
    },
    {
     "address": "0xb695651daa495f59dd2725c6fe98322d8b51a92d",
     "name": null,
     "rank": 2,
-    "accountValue": 30962654.575587,
-    "monthPnl": 32159885.465129,
-    "monthRoi": 0.6598306133,
-    "allTimePnl": 35540788.937511
-   },
-   {
-    "address": "0xdf954bbe619273a56e0cfa90dad8382195dc7d72",
-    "name": null,
-    "rank": 3,
-    "accountValue": 63510913.58422,
-    "monthPnl": 30353070.499328,
-    "monthRoi": 0.7832549253,
-    "allTimePnl": 26689055.744220003
+    "accountValue": 33148843.440884,
+    "monthPnl": 34368529.003242,
+    "monthRoi": 0.7201962799,
+    "allTimePnl": 36730883.210713
    },
    {
     "address": "0x45d26f28196d226497130c4bac709d808fed4029",
     "name": null,
-    "rank": 4,
-    "accountValue": 52695295.944614,
-    "monthPnl": 30245625.119917,
-    "monthRoi": 0.9689014687,
-    "allTimePnl": 93323410.914614
+    "rank": 3,
+    "accountValue": 53458548.155339,
+    "monthPnl": 33076940.358733,
+    "monthRoi": 1.1329733077,
+    "allTimePnl": 94086663.125339
    },
    {
     "address": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
     "name": "BobbyBigSize",
+    "rank": 4,
+    "accountValue": 28736808.430792,
+    "monthPnl": 32454172.721711,
+    "monthRoi": 0.5414501509,
+    "allTimePnl": 174593956.920792
+   },
+   {
+    "address": "0xdf954bbe619273a56e0cfa90dad8382195dc7d72",
+    "name": null,
     "rank": 5,
-    "accountValue": 31454810.664739,
-    "monthPnl": 29516969.010394,
-    "monthRoi": 0.4813446835,
-    "allTimePnl": 173043200.204739
+    "accountValue": 64314192.540283,
+    "monthPnl": 32371178.637934998,
+    "monthRoi": 0.8558380305,
+    "allTimePnl": 27714158.380283
    },
    {
     "address": "0xfc27136e42af1732ddc9ce2605ea9bff1b959d9d",
     "name": "John Wick",
     "rank": 6,
-    "accountValue": 34198224.15761,
-    "monthPnl": 27166220.315645,
-    "monthRoi": 0.7673003395,
-    "allTimePnl": 35214168.82761
+    "accountValue": 35204210.263217,
+    "monthPnl": 28745131.20327,
+    "monthRoi": 0.8251951243,
+    "allTimePnl": 36220154.933217
    },
    {
     "address": "0x024294c53a69c1e6b39810b3fac87385752fffa1",
     "name": null,
     "rank": 7,
-    "accountValue": 23721091.353122,
-    "monthPnl": 20346104.804247,
-    "monthRoi": 1.1180726318,
-    "allTimePnl": 26723887.105593
+    "accountValue": 23274869.715814,
+    "monthPnl": 22210283.285311002,
+    "monthRoi": 1.3980058473,
+    "allTimePnl": 26277702.773337003
    },
    {
     "address": "0xfe7ce058edc7cfcde9ef8262ba51f8d4796ab7ae",
     "name": null,
     "rank": 8,
-    "accountValue": 41082546.070674,
-    "monthPnl": 18512479.513557,
-    "monthRoi": 1.0400597485,
-    "allTimePnl": 22130517.186514
+    "accountValue": 41830503.02701,
+    "monthPnl": 20101039.472599,
+    "monthRoi": 1.1740394164,
+    "allTimePnl": 23007743.738842
    },
    {
     "address": "0x218a65e21eddeece7a9df38c6bbdd89f692b7da2",
     "name": null,
     "rank": 9,
-    "accountValue": 13253120.150523,
-    "monthPnl": 17414243.93178,
-    "monthRoi": 1.3197249573,
-    "allTimePnl": 21843226.141375
+    "accountValue": 13905917.867885,
+    "monthPnl": 18646334.459866,
+    "monthRoi": 1.4751852067,
+    "allTimePnl": 22519953.72755
    },
    {
     "address": "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0",
     "name": null,
     "rank": 10,
-    "accountValue": 28154760.299465,
-    "monthPnl": 16484374.259564,
-    "monthRoi": 1.0370901795,
-    "allTimePnl": 18628908.699465
+    "accountValue": 28187062.190417,
+    "monthPnl": 17732921.304569,
+    "monthRoi": 1.2055085245,
+    "allTimePnl": 18661210.590417
    },
    {
     "address": "0xca4903c207a0df58bf37d4bc8bbc5210726f53c8",
     "name": null,
     "rank": 11,
-    "accountValue": 14242533.968329001,
-    "monthPnl": 14996165.065801,
-    "monthRoi": 0.8222361324,
-    "allTimePnl": 19559147.898329
-   },
-   {
-    "address": "0x49e96e255ba418d08e66c35b588e2f2f3766e1d0",
-    "name": "2 freres 2 fauves",
-    "rank": 12,
-    "accountValue": 30940578.560418,
-    "monthPnl": 13476236.919250999,
-    "monthRoi": 0.2508475844,
-    "allTimePnl": 21207230.800418
-   },
-   {
-    "address": "0xf818fa41af44a1b42ba7433f4ec472be40a2c268",
-    "name": null,
-    "rank": 13,
-    "accountValue": 41414553.415508,
-    "monthPnl": 12124574.865939,
-    "monthRoi": 0.5193810692,
-    "allTimePnl": 14917804.215508
-   },
-   {
-    "address": "0x4ba3979955f52158c0e4e3378b18985475182ce2",
-    "name": null,
-    "rank": 14,
-    "accountValue": 24311966.225080002,
-    "monthPnl": 11400909.179201,
-    "monthRoi": 2.2664988506,
-    "allTimePnl": 15062001.419776998
+    "accountValue": 14666978.188970001,
+    "monthPnl": 16097238.350059,
+    "monthRoi": 0.9135792981,
+    "allTimePnl": 20036476.31897
    },
    {
     "address": "0xfc667adba8d4837586078f4fdcdc29804337ca06",
     "name": null,
-    "rank": 15,
-    "accountValue": 71458208.113229,
-    "monthPnl": 11136144.731741,
-    "monthRoi": 0.0917716692,
-    "allTimePnl": 47958342.643229
+    "rank": 12,
+    "accountValue": 65906732.550891995,
+    "monthPnl": 14252438.798979,
+    "monthRoi": 0.1199507056,
+    "allTimePnl": 48406867.080892004
    },
    {
-    "address": "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352",
+    "address": "0x49e96e255ba418d08e66c35b588e2f2f3766e1d0",
+    "name": "2 freres 2 fauves",
+    "rank": 13,
+    "accountValue": 31176786.932762,
+    "monthPnl": 14206780.547225,
+    "monthRoi": 0.2669115272,
+    "allTimePnl": 21443356.532762
+   },
+   {
+    "address": "0xf818fa41af44a1b42ba7433f4ec472be40a2c268",
     "name": null,
-    "rank": 16,
-    "accountValue": 6257955.567669,
-    "monthPnl": 10884481.480273,
-    "monthRoi": 1.9526760588,
-    "allTimePnl": 9271237.697669
+    "rank": 14,
+    "accountValue": 41486785.41826101,
+    "monthPnl": 13083346.016351,
+    "monthRoi": 0.5825974522,
+    "allTimePnl": 14990036.218261
+   },
+   {
+    "address": "0x4ba3979955f52158c0e4e3378b18985475182ce2",
+    "name": null,
+    "rank": 15,
+    "accountValue": 24466658.363118,
+    "monthPnl": 11922607.328786999,
+    "monthRoi": 2.4791799023,
+    "allTimePnl": 15362607.526889
    },
    {
     "address": "0x484bc1608211d0604bf70bae72792a56884562f8",
     "name": null,
-    "rank": 17,
-    "accountValue": 51795453.358440995,
-    "monthPnl": 9290884.522663,
-    "monthRoi": 0.5188343237,
-    "allTimePnl": 9954907.608440997
+    "rank": 16,
+    "accountValue": 51692224.136335,
+    "monthPnl": 11366652.52518,
+    "monthRoi": 0.7137417637,
+    "allTimePnl": 9851678.386335
    },
    {
-    "address": "0x15a4f009bb324a3fb9e36137136b201e3fe0dfdb",
+    "address": "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352",
     "name": null,
-    "rank": 18,
-    "accountValue": 34700042.950101,
-    "monthPnl": 8482059.112622,
-    "monthRoi": 0.3235206477,
-    "allTimePnl": 34263067.993302
+    "rank": 17,
+    "accountValue": 6796551.906227,
+    "monthPnl": 11083844.431702,
+    "monthRoi": 1.425589868,
+    "allTimePnl": 9441043.736227
    },
    {
     "address": "0xd47587702a91731dc1089b5db0932cf820151a91",
     "name": null,
-    "rank": 19,
-    "accountValue": 12733169.35051,
-    "monthPnl": 8368821.47759,
-    "monthRoi": 0.3084047688,
-    "allTimePnl": 77747376.851796
+    "rank": 18,
+    "accountValue": 12855517.192928,
+    "monthPnl": 9543807.782273,
+    "monthRoi": 0.3882178853,
+    "allTimePnl": 77870163.89303899
    },
    {
-    "address": "0xd4c1f7e8d876c4749228d515473d36f919583d1d",
+    "address": "0x15a4f009bb324a3fb9e36137136b201e3fe0dfdb",
+    "name": null,
+    "rank": 19,
+    "accountValue": 34983772.829749,
+    "monthPnl": 8564671.490647,
+    "monthRoi": 0.3241848154,
+    "allTimePnl": 34546797.87295
+   },
+   {
+    "address": "0xda3768e9299e1fd81708ec030dac5ea37125f7b5",
     "name": null,
     "rank": 20,
-    "accountValue": 9649162.167328,
-    "monthPnl": 6990918.746909,
-    "monthRoi": 0.6448785297,
-    "allTimePnl": 27943051.267328
+    "accountValue": 20094762.496649,
+    "monthPnl": 7756465.842363,
+    "monthRoi": 0.4976211126,
+    "allTimePnl": 5862690.456649
    }
   ],
   "snapshots": {
@@ -583,6 +583,12 @@
      "entry": 0.116438,
      "value": 250208.697492,
      "lev": 3
+    },
+    "XPL": {
+     "size": -2100000,
+     "entry": 0.104139,
+     "value": 100482.9,
+     "lev": 5
     }
    },
    "0x7fdafde5cfb5465924316eced2d3715494c517d1": {
@@ -629,9 +635,9 @@
      "lev": 10
     },
     "XRP": {
-     "size": 3292797,
-     "entry": 1.032996,
-     "value": 3300041.1534,
+     "size": 1910013,
+     "entry": 1.026842,
+     "value": 1874295.7569,
      "lev": 20
     },
     "WLD": {
@@ -683,9 +689,9 @@
      "lev": 5
     },
     "ZEC": {
-     "size": -19316.29,
-     "entry": 914.6802,
-     "value": 18405333.7636,
+     "size": -14124.3,
+     "entry": 914.8146,
+     "value": 13388282.727,
      "lev": 5
     },
     "MON": {
@@ -721,9 +727,9 @@
      "lev": 25
     },
     "ETH": {
-     "size": 1241.0813,
-     "entry": 1798.71,
-     "value": 2251321.4782,
+     "size": 868.9179,
+     "entry": 1798.35,
+     "value": 1565529.38043,
      "lev": 25
     },
     "SOL": {
@@ -1000,21 +1006,21 @@
    "0x4ba3979955f52158c0e4e3378b18985475182ce2": {},
    "0xfc667adba8d4837586078f4fdcdc29804337ca06": {
     "BTC": {
-     "size": -368.74533,
-     "entry": 65893.5,
-     "value": 23893222.40268,
+     "size": -274.65316,
+     "entry": 65464.1,
+     "value": 17487716.00352,
      "lev": 20
     },
     "ETH": {
-     "size": 2501.7744,
-     "entry": 1814.03,
-     "value": 4538468.93904,
+     "size": 1483.9533,
+     "entry": 1809.78,
+     "value": 2673638.66061,
      "lev": 20
     },
     "SOL": {
-     "size": -17901.48,
-     "entry": 71.7769,
-     "value": 1344096.82284,
+     "size": -13049.8,
+     "entry": 71.9682,
+     "value": 971296.614,
      "lev": 20
     },
     "XRP": {
@@ -1050,9 +1056,9 @@
    },
    "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352": {
     "BTC": {
-     "size": -16.82978,
-     "entry": 81607.9,
-     "value": 1090502.42488,
+     "size": -27.14203,
+     "entry": 74846.3,
+     "value": 1728187.33416,
      "lev": 20
     },
     "ETH": {
@@ -1164,127 +1170,12 @@
      "lev": 5
     }
    },
-   "0xd4c1f7e8d876c4749228d515473d36f919583d1d": {
-    "BTC": {
-     "size": -71.51148,
-     "entry": 64884.1,
-     "value": 4460314.03056,
-     "lev": 12
-    },
-    "ETH": {
-     "size": -392.1187,
-     "entry": 1787.86,
-     "value": 690834.72566,
-     "lev": 12
-    },
-    "SOL": {
-     "size": -797.23,
-     "entry": 73.3604,
-     "value": 57962.60715,
-     "lev": 20
-    },
-    "AVAX": {
-     "size": -21259.89,
-     "entry": 7.5015,
-     "value": 148806.474066,
-     "lev": 10
-    },
-    "ARB": {
-     "size": -782693.3,
-     "entry": 0.15165,
-     "value": 102313.668176,
-     "lev": 10
-    },
-    "DOGE": {
-     "size": -4603349,
-     "entry": 0.059903,
-     "value": 275220.426663,
-     "lev": 10
-    },
-    "LINK": {
-     "size": -12421.1,
-     "entry": 9.28718,
-     "value": 115216.88149,
-     "lev": 10
-    },
-    "WLD": {
-     "size": -1477068.6,
-     "entry": 0.26427,
-     "value": 392191.254672,
-     "lev": 10
-    },
-    "UNI": {
-     "size": -89141.4,
-     "entry": 5.19505,
-     "value": 467680.3551,
-     "lev": 10
-    },
-    "NEAR": {
-     "size": -150750.9,
-     "entry": 3.25259,
-     "value": 507322.00377,
-     "lev": 10
-    },
-    "ONDO": {
-     "size": 1079951,
-     "entry": 0.304384,
-     "value": 333650.86145,
-     "lev": 10
-    },
-    "ENA": {
-     "size": -2498515,
-     "entry": 0.117481,
-     "value": 275136.4718,
-     "lev": 10
-    },
-    "HYPE": {
-     "size": -42127.25,
-     "entry": 66.461,
-     "value": 2788823.95,
-     "lev": 10
-    },
-    "FARTCOIN": {
-     "size": -1796889.5,
-     "entry": 0.0902,
-     "value": 161091.143675,
-     "lev": 10
-    },
-    "PUMP": {
-     "size": -202399076,
-     "entry": 0.002829,
-     "value": 538786.340312,
-     "lev": 5
-    },
-    "XPL": {
-     "size": -6265216,
-     "entry": 0.043981,
-     "value": 289064.535808,
-     "lev": 10
-    },
-    "ZEC": {
-     "size": -7263.25,
-     "entry": 900.5128,
-     "value": 6923329.9,
-     "lev": 10
-    },
-    "XMR": {
-     "size": -1687.089,
-     "entry": 497.821,
-     "value": 850022.92176,
-     "lev": 5
-    },
-    "XRP": {
-     "size": 121951,
-     "entry": 0.986068,
-     "value": 120168.686135,
-     "lev": 20
-    }
-   }
+   "0xda3768e9299e1fd81708ec030dac5ea37125f7b5": {}
   },
-  "refreshedAt": 1794988985493
+  "refreshedAt": 1795086637320
  },
  "congress": {
-  "lastRun": 1795037459652,
+  "lastRun": 1795086644189,
   "seen": [
    "20034201",
    "20033751",
@@ -1762,7 +1653,7 @@
   ]
  },
  "sec": {
-  "lastRun": 1795039846429,
+  "lastRun": 1795086739733,
   "seen": [
    "0001510281-26-000448",
    "0001493152-26-052957",
