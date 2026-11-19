@@ -2,7 +2,7 @@
  "failures": {
   "hyperliquid": 0,
   "congress": 0,
-  "sec": 0
+  "sec": 1
  },
  "hyperliquid": {
   "traders": [
@@ -721,9 +721,9 @@
    },
    "0xfc27136e42af1732ddc9ce2605ea9bff1b959d9d": {
     "BTC": {
-     "size": -856.57014,
-     "entry": 72427.6,
-     "value": 55497179.3706,
+     "size": -1081.55725,
+     "entry": 69965,
+     "value": 68391191.1465,
      "lev": 25
     },
     "ETH": {
